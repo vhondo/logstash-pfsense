@@ -1,10 +1,10 @@
 # logstash-pfsense
 Simple pipeline for firewall blocks
 
-This is an initial version. This plan is to fully develop the pipeline.
+Use with BSD (RFC3164) log message format only
 
 Current plans:
 * Add more pfsense process types
 * IPv6 log support
-* Index Lifecycle Management support
+* more
 
